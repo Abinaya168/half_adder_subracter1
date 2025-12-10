@@ -56,12 +56,11 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-<img width="1888" height="1035" alt="Screenshot 2025-12-09 205800" src="https://github.com/user-attachments/assets/846b3a87-ce4f-4102-962e-d388a8cb52fa" />
-<img width="1836" height="868" alt="Screenshot 2025-12-09 204359" src="https://github.com/user-attachments/assets/7ede2670-e700-4b4e-95e1-ed40827a1e8f" />
+<img width="1836" height="868" alt="Screenshot 2025-12-09 204359" src="https://github.com/user-attachments/assets/cad6f0eb-9ef8-47f4-8591-1cbb6ec03b62" />
+<img width="1888" height="1035" alt="Screenshot 2025-12-09 205800" src="https://github.com/user-attachments/assets/fbcf4369-075e-4964-aff5-47e7d1de27e8" />
 
 **Output/TIMING Waveform**
-
-<img width="1836" height="868" alt="Screenshot 2025-12-09 204359" src="https://github.com/user-attachments/assets/f269f035-b4bd-45ac-9292-0796c467d10f" />
-<img width="1881" height="983" alt="Screenshot 2025-12-09 210103" src="https://github.com/user-attachments/assets/cb6bbbd4-6581-4af0-baf5-cb80db1c7a4b" />
+<img width="1881" height="735" alt="Screenshot 2025-12-09 204828" src="https://github.com/user-attachments/assets/8221ea6a-de0b-4fb6-b57f-3e15d8101afb" />
+<img width="1881" height="983" alt="Screenshot 2025-12-09 210103" src="https://github.com/user-attachments/assets/8e83ac68-d73a-4211-80b9-cee7ac2b8823" />
 
 **Result:**
